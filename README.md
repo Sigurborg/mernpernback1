@@ -15,3 +15,4 @@ MONGOPASS=<your mongo password here>
 
 This is what should be in the file when you are using all default values and running on local host. Of course normally you would name your database something else
 The user would also be something else and the host would probably be some IP address or a url to some PostgreSQL server...
+# mernpernback
